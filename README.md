@@ -1,2 +1,2 @@
 # TonyMolins
-Repository of Tony. That is all.
+A document about super saiyans. That is all.
